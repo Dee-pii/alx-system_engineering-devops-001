@@ -1,1 +1,1 @@
-Display current directory contents in a long format
+This project is for shell basics
